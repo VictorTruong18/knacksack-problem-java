@@ -1,0 +1,9 @@
+Lampe ; 2.0 ; 30.0
+Sac de couchage ; 1.0 ; 20.0
+Camping gaz ; 3.0 ; 40.0
+Tente 2 secondes ; 3.0 ; 100.0
+Xbox ; 2.0 ; 100.0
+Xbox360 ; 0.3 ; 100.0
+Xbox360 ; 0.7 ; 30.0
+Xbox360 ; 0.2 ; 50.0
+
